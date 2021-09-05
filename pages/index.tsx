@@ -13,7 +13,7 @@ export default function Home(): ReactElement {
     { name: "Synthetic Emoji Loot", url: "/synthloot" },
     {
       name: "Twitter",
-      url: "https://twitter.com/lootproject",
+      url: "https://twitter.com/EmojiLoot",
     },
     {
       name: "Contract",

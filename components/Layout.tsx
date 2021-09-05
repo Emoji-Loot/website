@@ -138,7 +138,7 @@ function Footer(): ReactElement {
       <p>
         This website is{" "}
         <a
-          href="https://github.com/lootproject/website"
+          href="https://github.com/Emoji-Loot/website"
           target="_blank"
           rel="noopener noreferrer"
         >
